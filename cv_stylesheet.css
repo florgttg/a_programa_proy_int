@@ -1,0 +1,46 @@
+*{
+    font-family: 'Lato', sans-serif;
+    font-size:15px;
+    box-sizing: border-box;
+}
+header{
+    background-color: #343537;
+    color: #E3D5C8;
+    }
+
+#nombre{ 
+    font-weight: bolder;
+    font-size:50px;
+    border: #e3d5c5;
+}
+
+.titulos{
+    font-size: 18px;
+    border-bottom: 1px solid #343537;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.subtitulo{ font-size: 14px;
+    font-weight: bold;
+}
+.subtitulo2{ 
+    font-size: 13px;
+    font-weight: bold;
+}
+ul{
+    list-style: circle;
+    }
+li{
+    line-height: 1.5;
+    }
+
+div.rosa{
+    background-color:#E3D5C8;
+} 
+
+#foto{border-radius: 50%;
+    width:100%;
+    height:auto;}
+
+
+  
